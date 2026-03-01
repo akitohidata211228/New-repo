@@ -1,0 +1,8 @@
+{
+  "cleanUrls": true,
+  "routes": [
+    { "src": "/skill", "dest": "/skill.html" },
+    { "src": "/kontak", "dest": "/kontak.html" },
+    { "src": "/ai", "dest": "/ai.html" }
+  ]
+}
